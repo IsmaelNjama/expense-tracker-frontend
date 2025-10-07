@@ -1,4 +1,4 @@
-# Expense Tracker Frontend
+# Expense Tracker
 
 A simple web application to track shared expenses between friends. The app allows you to add expenses, see who paid what, and automatically calculates how much each person owes at the end of the month.
 
